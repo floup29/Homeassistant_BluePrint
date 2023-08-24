@@ -2,7 +2,7 @@ blueprint:
   name: Xiaomi Wireless Switch (WXKG01LM) via Xiaomi Gateway 3
   description: Automate your Xiaomi Wireless Switch. [Working Dec 2021]
   domain: automation
-  origin source_url: https://github.com/MoweME/homeassistant-blueprints/blob/main/xiaomi/WXKG01LM/WXKG01LM.yaml
+  source_url: lhttps://github.com/floup29/Homeassistant_BluePrint/blob/main/Xiaomi_WXKG01LM_HA_Gateway_V3-Integration.yaml
   input:
     switch:
       name: Xiaomi Wireless Switch
